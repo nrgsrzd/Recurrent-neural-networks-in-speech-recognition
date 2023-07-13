@@ -9,3 +9,5 @@ Before training the models, necessary preprocessing steps should be performed on
 
 Three types of RNNs, namely LSTM, RNN, and GRU, will be considered for the speech recognition task. The architectures and number of layers for each model are arbitrary, but the models should be structured in a way that allows for comparison with each other. This includes having the same activation function, loss function, and optimizer for all three models. The model training will be performed using TensorFlow, a popular open-source machine learning library.
 
+## Reference
+Thanks to @kiananvari for sharing his source code
